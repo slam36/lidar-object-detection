@@ -17,6 +17,13 @@ The flagging criteria has not been fully developed, but it is proposed that if m
 
 
 ### Code and File Structure
+All of the code is in the /Flight Test Experiment folder. Run MAIN_LiDAR_Post_Processing.m. The code is split into sections for each step of the processing and algorithm. A sample csv file containing a frame of point cloud data from the test flight is located in this directory too which the code currently reads from. 
+
+The /Flight Planning directory contains the Mission Planner waypoints for our test flight. 
+
+The report that I wrote for this project is also in the root folder. This describes the project and all of its steps in detail.
+
+
 
 
 
